@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello!
+
+I'm Peter, nice to meet you.
+I'm a pharmacy student at Rutgers University. 
